@@ -1,2 +1,2 @@
-# PatatapClone-For-fun-practice-
+# PatatapClone
 Patatap clone app for fun and practice
